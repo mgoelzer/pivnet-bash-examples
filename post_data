@@ -1,0 +1,27 @@
+{
+  "product_file": {
+    "aws_object_key": "product_files/Pivotal-CF/OpsManager1.5.0.0onAWSFulfillmentInstructions.pdf",
+    "description": "AWS PDF",
+    "docs_url": null,
+    "file_type": "Software",
+    "file_version": "1.5.0.0",
+    "included_files": [
+
+    ],
+    "md5": "123456789",
+    "name": "Product File 9",
+    "platforms": [
+
+    ],
+    "released_at": "2015/07/10",
+    "size": 3,
+    "system_requirements": [
+
+    ],
+    "_links": {
+      "self": {
+        "href": "https://network.pivotal.io/api/v2/products/pivotal-cf/product_files/130"
+      }
+    }
+  }
+}
